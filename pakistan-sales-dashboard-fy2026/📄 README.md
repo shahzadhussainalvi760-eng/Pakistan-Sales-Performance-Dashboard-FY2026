@@ -205,4 +205,50 @@ It helps business teams instantly understand:
 
 ## 📖 How To Use This Project
 
+---
+
+## ⚠️ Important Notes
+
+> ✅ Open `.xlsm` file with **Microsoft Excel 2016+**
+> 
+> ✅ Click **"Enable Macros"** when file opens
+> 
+> ✅ This project is **CONFIDENTIAL** — internal use only
+> 
+> ✅ Data period: **FY2026 (January – July 2025)**
+
+---
+
+## 📌 Project Info
+
+| Detail | Info |
+|--------|------|
+| Version | v06191909 |
+| Export Date | 19-Jun-2026 |
+| Data Period | FY2026 |
+| Regions | 4 (East, North, South, West) |
+| Cities | 12 Major Pakistan Cities |
+| Sales Reps | 6 Representatives |
+| Total Orders | 240 |
+| Tool | Microsoft Excel + VBA |
+
+---
+
+
+## 👤 Author
+
+**Shehzad Hussain**
+Data Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shehzad-hussain-42a5443ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahzadhussainalvi760-eng)
+
+📅 Exported: 19 June 2026
+🔒 CONFIDENTIAL — Internal Use Only
+
+---
+
+*⭐ If you found this useful, please star this repository!*
 ### 📊 View PDF Dashboard
+
+
